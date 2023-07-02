@@ -12,7 +12,7 @@
 * Git
 
 
-## ** Code example**
+## **Code example**
 
 
 ## **Experience**
@@ -28,7 +28,12 @@ September 2002 – June 2006                                   *Sevastopol Marin
 
 
 
-## ** English**
+
+
+## **English**
+
+
+
 
 
 
